@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ek8LqFe2DDluFyJaAl3hQZqz86+aqjQfFo0nfygXyx+1nSOe3ff0T8Z0anvLajYQIdFt0UpyKlr2bDmWLB3dvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RyanC\\source\\repos\\GC_Exercise_31_32\\GC_Exercise_31_32\\GC_Exercise_31_32.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RyanC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
